@@ -7,7 +7,7 @@ Program ini juga dibuat sebagai tugas uas.
 
 ### Untuk penjelasan program berupa pdf silahkan kunjungi link berikut :
 
-[Modul Program Input Nilai Mahasiswa ](https://drive.google.com/file/d/1bMWYQGXpDevyQLq_RvBnDac6wCRwbcvl/view?usp=share_link)
+[Modul Program Input Nilai](https://drive.google.com/file/d/1EAqD5H0kOppcoBJX0DAtUwmA-oabRsz_/view?usp=drivesdk)
 
 ### Untuk penjelasan program berupa video youtube silahkan kunjungi link berikut :
 
